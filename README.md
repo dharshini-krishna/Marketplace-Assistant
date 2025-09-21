@@ -42,7 +42,7 @@
    Or create a `.env` file:
    ```
    GOOGLE_API_KEY=your_api_key_here
-   GOOGLE_API_KEY=AIzaSyAnHmjPuj5Kf-jXRs_NwK7lw5crDs7LEIE
+   
    ```
 
 6. **Run the application**
