@@ -42,14 +42,15 @@
    Or create a `.env` file:
    ```
    GOOGLE_API_KEY=your_api_key_here
+   GOOGLE_API_KEY=AIzaSyAnHmjPuj5Kf-jXRs_NwK7lw5crDs7LEIE
    ```
 
-5. **Run the application**
+6. **Run the application**
    ```bash
    streamlit run app.py
    ```
 
-6. **Open your browser** to `http://localhost:8501`
+7. **Open your browser** to `http://localhost:8501`
 
 ## 🎯 How to Use
 
